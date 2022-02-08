@@ -1,0 +1,15 @@
+C:\Users\Swathi Mabbu\source\repos\day1 practice program\day1 practice program\obj\Debug\net6.0\day1 practice program.csproj.AssemblyReference.cache
+C:\Users\Swathi Mabbu\source\repos\day1 practice program\day1 practice program\obj\Debug\net6.0\day1 practice program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Swathi Mabbu\source\repos\day1 practice program\day1 practice program\obj\Debug\net6.0\day1 practice program.AssemblyInfoInputs.cache
+C:\Users\Swathi Mabbu\source\repos\day1 practice program\day1 practice program\obj\Debug\net6.0\day1 practice program.AssemblyInfo.cs
+C:\Users\Swathi Mabbu\source\repos\day1 practice program\day1 practice program\obj\Debug\net6.0\day1 practice program.csproj.CoreCompileInputs.cache
+C:\Users\Swathi Mabbu\source\repos\day1 practice program\day1 practice program\bin\Debug\net6.0\day1 practice program.exe
+C:\Users\Swathi Mabbu\source\repos\day1 practice program\day1 practice program\bin\Debug\net6.0\day1 practice program.deps.json
+C:\Users\Swathi Mabbu\source\repos\day1 practice program\day1 practice program\bin\Debug\net6.0\day1 practice program.runtimeconfig.json
+C:\Users\Swathi Mabbu\source\repos\day1 practice program\day1 practice program\bin\Debug\net6.0\day1 practice program.dll
+C:\Users\Swathi Mabbu\source\repos\day1 practice program\day1 practice program\bin\Debug\net6.0\ref\day1 practice program.dll
+C:\Users\Swathi Mabbu\source\repos\day1 practice program\day1 practice program\bin\Debug\net6.0\day1 practice program.pdb
+C:\Users\Swathi Mabbu\source\repos\day1 practice program\day1 practice program\obj\Debug\net6.0\day1 practice program.dll
+C:\Users\Swathi Mabbu\source\repos\day1 practice program\day1 practice program\obj\Debug\net6.0\ref\day1 practice program.dll
+C:\Users\Swathi Mabbu\source\repos\day1 practice program\day1 practice program\obj\Debug\net6.0\day1 practice program.pdb
+C:\Users\Swathi Mabbu\source\repos\day1 practice program\day1 practice program\obj\Debug\net6.0\day1 practice program.genruntimeconfig.cache
